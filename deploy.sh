@@ -1,0 +1,1 @@
+rm -rf .git; git init; git add .; git commit -m "update"; git remote add origin https://github.com/rallis/rallis.github.io.git; git push -u --force origin master

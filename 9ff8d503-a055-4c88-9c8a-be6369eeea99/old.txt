@@ -1,0 +1,2 @@
+ <!-- <img class="rounded" src="images/nb.png" alt="NorthBay" height="35" width="70">&nbsp; -->
+                   NorthBay Solutions, Canada</p>
